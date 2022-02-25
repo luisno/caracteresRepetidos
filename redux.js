@@ -1,4 +1,3 @@
-// multipilicar dos numero sin utilizar signo de muliplicacion
 let caracteresRepetido = [];
 let repetido = (cadena) => {
    arregloCaracteres =  cadena.split('');
@@ -11,5 +10,5 @@ let repetido = (cadena) => {
       }
    });
 }
-repetido('AABBBCCD');
+repetido('AABBBCCDEE');
 console.log(caracteresRepetido);
